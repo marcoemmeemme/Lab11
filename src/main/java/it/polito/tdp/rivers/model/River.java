@@ -51,7 +51,7 @@ public class River {
 			flows = new ArrayList<Flow>();
 		return flows;
 	}
-
+	
 	@Override
 	public String toString() {
 		return name;
